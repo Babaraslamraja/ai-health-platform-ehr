@@ -1,0 +1,5 @@
+patient_id,encounter_id,birth_date,gender,encounter_date,condition,procedure,lab_result,value
+1,E101,1980-05-12,M,2025-02-05,Hypertension,Blood Pressure Check,SBP,145
+2,E102,1975-08-20,F,2025-02-10,Diabetes,Glucose Test,Glucose,190
+6,E103,1988-09-10,F,2025-02-12,Asthma,Spirometry,FEV1,2.8
+7,E104,1995-04-18,M,2025-02-15,Hypertension,Blood Pressure Check,SBP,135
