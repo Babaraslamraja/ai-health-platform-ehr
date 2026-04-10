@@ -1,6 +1,6 @@
-# 🏥 AI Health Platform – EHR Integration Project
+#   AI Health Platform – EHR Integration Project
 
-## 📌 Overview
+##  Overview
 This project simulates a platform-based Electronic Health Record (EHR) system by integrating data from multiple healthcare sources into a unified patient-level dataset.
 
 It demonstrates how fragmented healthcare data can be transformed into a shared care record, enabling interoperability and supporting future AI-driven healthcare solutions.
