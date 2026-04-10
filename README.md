@@ -38,3 +38,28 @@ Patient data is distributed across systems but can be unified into a single trus
 
 ##  Author
 Babar Aslam
+##   How to Run
+
+1. Clone the repository:
+   git clone https://github.com/Babaraslamraja/ai-health-platform-ehr.git
+
+2. Open the notebook:
+   notebooks/01_data_integration.ipynb
+
+3. Run all cells
+
+---
+
+##   Architecture
+
+Multiple EHR systems → Data Integration → Data Cleaning → Unified Dataset → Shared Care Record
+
+---
+
+##   Skills Demonstrated
+
+- Data Integration
+- Data Cleaning
+- Pandas
+- Healthcare Analytics
+- EHR Interoperability
