@@ -45,17 +45,18 @@ Patient data is distributed across systems but can be unified into a single trus
 
 ##  Author
 Babar Aslam
-##   How to Run
+## How to Run
 
-1. Clone the repository:
-   git clone https://github.com/Babaraslamraja/ai-health-platform-ehr.git
+Clone the repository:
 
-2. Open the notebook:
-   notebooks/01_data_integration.ipynb
+git clone https://github.com/Babaraslamraja/ai-health-platform-ehr.git  
+cd ai-health-platform-ehr  
 
-3. Run all cells
+Open the notebook:
 
----
+notebooks/01_data_integration.ipynb  
+
+Run all cells in Jupyter Notebook.
 
 ##   Architecture
 
