@@ -10,6 +10,13 @@ It demonstrates how fragmented healthcare data can be transformed into a shared 
 - Perform data cleaning and transformation
 - Create a unified patient dataset
 - Generate a shared care record
+## Project Highlights
+
+- Integrated multiple EHR systems into a unified dataset
+- Applied data cleaning and transformation techniques
+- Selected the most recent patient encounters
+- Created a shared care record for cross-system visibility
+- Simulated a real-world healthcare data pipeline
 
 ##  Project Structure
 AI_HEALTH_PLATFORM/
