@@ -1,0 +1,13 @@
+{
+  "resourceType": "Condition",
+  "id": "cond-1",
+  "clinicalStatus": {
+    "text": "active"
+  },
+  "code": {
+    "text": "Hypertension"
+  },
+  "subject": {
+    "reference": "Patient/1"
+  }
+}
