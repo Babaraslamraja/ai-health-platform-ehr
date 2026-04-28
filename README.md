@@ -1,5 +1,5 @@
 #   AI Health Platform – EHR Integration Project
-
+> End-to-end healthcare data pipeline transforming fragmented EHR data into unified and interoperable formats using Python.
 ##  Overview
 This project simulates a platform-based Electronic Health Record (EHR) system by integrating data from multiple healthcare sources into a unified patient-level dataset.
 
@@ -19,11 +19,10 @@ It demonstrates how fragmented healthcare data can be transformed into a shared 
 - Simulated a real-world healthcare data pipeline
 
 ##  Project Structure
-AI_HEALTH_PLATFORM/
+ai-health-platform-ehr/
 - data/
 - notebooks/
 - outputs/
-- project_summary.md
 
 ##  Technologies Used
 - Python
@@ -41,7 +40,7 @@ AI_HEALTH_PLATFORM/
 - shared_care_record.csv
 
 ##   Key Insight
-Patient data is distributed across systems but can be unified into a single trusted record.
+Patient data is often fragmented across systems but can be unified into a single, reliable and interoperable record..
 
 ##  Author
 Babar Aslam
