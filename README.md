@@ -19,7 +19,7 @@ It demonstrates how fragmented healthcare data can be transformed into a shared 
 - Simulated a real-world healthcare data pipeline
 
 ##  Project Structure
-ai-health-platform-ehr/
+FHIR_INTEROPERABILITY/
 - data/
 - notebooks/
 - outputs/
